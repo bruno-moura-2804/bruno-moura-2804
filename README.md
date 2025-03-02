@@ -21,4 +21,8 @@ My name is Bruno Moura, I am 20 years old, and I am from São José dos Campos, 
 ---
 [![](https://visitcount.itsvg.in/api?id=bruno-moura-2804&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake.svg">
+</picture>
