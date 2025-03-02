@@ -1,6 +1,9 @@
 # 💫 About Me:
 My name is Bruno Moura, I am 20 years old, and I am from São José dos Campos, SP. Currently, I am studying Computer Science and participating in a training program with Embraer. I have experience in Full Stack development, with skills in Python, Java, JavaScript, HTML, CSS, as well as solid knowledge in Microsoft Office and data management. I am passionate about technology and innovation, always seeking to learn and share what I know. Thank you very much 😊
 
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:brunohenriq893@gmail.com)
