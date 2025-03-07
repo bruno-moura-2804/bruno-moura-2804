@@ -44,3 +44,5 @@ My name is Bruno, I am 20 years old, and I am from São José dos Campos, SP. Cu
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake.svg">
 </picture>
+
+
