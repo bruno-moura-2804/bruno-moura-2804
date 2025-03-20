@@ -18,7 +18,7 @@ My name is Bruno, I am 20 years old, and I am from São José dos Campos, SP. Cu
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/bh.moura28?igsh=cmY1d2kyZ3pheDhl)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,js,java,py,mysql,php,react,nodejs,idea,pycharm,vscode,linux,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cs,py,mysql,php,react,nodejs,idea,pycharm,vscode,linux,kali)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bruno-moura-2804&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
