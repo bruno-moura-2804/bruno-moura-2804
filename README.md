@@ -7,7 +7,7 @@
 
 
 # About Me:
-My name is Bruno, I am 20 years old, and I am from São José dos Campos, SP. Currently, I am studying Computer Science and participating in a training program with Embraer. I have experience in Full Stack development, with skills in HTML, CSS, JavaScript, Java, Python, C#, PHP and SQL, as well as solid knowledge in Microsoft Office and data management. I am passionate about technology and innovation, always seeking to learn and share what I know. 
+My name is Bruno, I am 20 years old, and I am from São José dos Campos, SP. Currently, I am studying Computer Science and participating in a training program with Embraer. I have experience in Full Stack development, with skills in HTML, CSS, JavaScript, Java, Python, C# and SQL, as well as solid knowledge in Microsoft Office and data management. I am passionate about technology and innovation, always seeking to learn and share what I know. 
   <img align="right" alt="GIF description" height="190px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9vM2thMjN5cTF6ZHloY3JhbTJqc2wxcXpkMDFyODRpb2lyZTBpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qRJyqHV5qlqCV6qnFy/giphy.gif" style="position: relative; top: -40px;">
 
 
