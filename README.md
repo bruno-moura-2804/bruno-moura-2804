@@ -20,7 +20,6 @@ My name is Bruno, I'm 21 years old and I'm from São José dos Campos, SP. Curre
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,py,vite,git,idea,pycharm,vscode,kali)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bruno-moura-2804&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bruno-moura-2804&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-moura-2804&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
