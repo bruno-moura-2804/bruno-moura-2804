@@ -1,10 +1,5 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=524&lines=Seja+bem+vindo+ao+meu+Perfil!+👋;Software+Engineering+Student;Compliance+Agent+at+Embraer" alt="Typing SVG">
-  </a>
-  <div align="center"><img align="center" alt="" src="https://i.imgur.com/jGruCum.gif">
-  </div>
-</div>
+<div align="center"><img align="center" alt="" src="https://i.imgur.com/jGruCum.gif"></div>
+
 
 ##  Sobre Mim 
 
