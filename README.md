@@ -1,40 +1,92 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=524&lines=Seja+bem+vindo+ao+meu+Perfil!+👋;Software+Engineering+Student;Compliance+Agent+at+Embraer" alt="Typing SVG">
   </a>
+  <div align="center"><img align="center" alt="" src="https://i.imgur.com/jGruCum.gif">
+  </div>
 </div>
-<img align="center" alt="" src="https://i.imgur.com/jGruCum.gif">
+---
 
+##  Sobre Mim 
 
-# About Me:
-My name is Bruno, I'm 21 years old and I'm from São José dos Campos, SP. Currently, I'm studying Software Engineering and working as a Junior Data Analyst/Compliance and Monitoring at Embraer. I'm passionate about technology and innovation, always seeking to learn and share what I know. 
-  <img align="right" alt="GIF description" height="190px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9vM2thMjN5cTF6ZHloY3JhbTJqc2wxcXpkMDFyODRpb2lyZTBpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qRJyqHV5qlqCV6qnFy/giphy.gif" style="position: relative; top: -40px;">
+Sou o **Bruno**, tenho 21 anos e moro em São José dos Campos/SP. Atualmente, estou cursando **Engenharia de Software com extensão em IA** e atuando como **Compliance Agent com foco em Monitoramento na Embraer**. 
 
+Sou entusiasta em tecnologia, inovação e por transformar dados brutos em insights inteligentes. Estou sempre em busca de evolução contínua, novos desafios e de compartilhar conhecimento com a comunidade.
 
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:brunohenriq893@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/bruno-henrique2804)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/bh.moura28?igsh=cmY1d2kyZ3pheDhl)
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,py,vite,git,idea,pycharm,vscode,kali)](https://skillicons.dev)
-
-![](https://github-readme-stats.vercel.app/api?username=bruno-moura-2804&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bruno-moura-2804&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-moura-2804&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bruno-moura-2804&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* Atualmente focado em: Engenharia de Dados, Python e Engenharia de Software.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bruno-moura-2804&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake.svg">
-</picture>
+## Conecte-se Comigo
+
+<div align="left">
+  <a href="mailto:brunohenriq893@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-henrique2804" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/bh.moura28" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  
+</div>
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="30%"><strong>Linguagens / Dados</strong></td>
+    <td align="center" width="40%"><strong>Frontend / Web</strong></td>
+    <td align="center" width="30%"><strong>Ferramentas / Outros</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,java,js,mysql" alt="Linguagens" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,idea,pycharm,vscode,kali" alt="Ferramentas" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=bruno-moura-2804&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-moura-2804&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+
+---
+
+## Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bruno-moura-2804/bruno-moura-2804/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <br/><br/>
+</div>
