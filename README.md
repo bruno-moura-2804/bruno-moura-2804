@@ -5,7 +5,6 @@
   <div align="center"><img align="center" alt="" src="https://i.imgur.com/jGruCum.gif">
   </div>
 </div>
----
 
 ##  Sobre Mim 
 
