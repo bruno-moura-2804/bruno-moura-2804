@@ -3,17 +3,17 @@
 <div align="center"><img align="center" alt="" src="https://i.imgur.com/jGruCum.gif"></div>
 
 
-##  Sobre Mim 
+##  About Me
 
-Sou o **Bruno**, tenho 21 anos e moro em São José dos Campos/SP. Atualmente, estou cursando **Engenharia de Software com extensão em IA** e atuando como **Compliance Agent com foco em Monitoramento na Embraer**. 
+I’m **Bruno**, 21 years old, based in São José dos Campos, SP. I’m currently pursuing a degree in **Software Engineering with a specialization in AI**, while working as a **Compliance Agent focused on Monitoring at Embraer**.
 
-Sou entusiasta em tecnologia, inovação e por transformar dados brutos em insights inteligentes. Estou sempre em busca de evolução contínua, novos desafios e de compartilhar conhecimento com a comunidade.
+I’m passionate about technology and innovation, and about turning raw data into meaningful insights. I’m always seeking continuous growth, new challenges, and opportunities to share knowledge with the community.
 
-* Atualmente focado em: Engenharia de Dados, Python e Engenharia de Software.
+* Currently focusing on: Data Engineering, Python, and Software Engineering.
 
 ---
 
-## Conecte-se Comigo
+## Connect with me
 
 <div align="left">
   <a href="mailto:brunohenriq893@gmail.com" target="_blank">
@@ -35,9 +35,9 @@ Sou entusiasta em tecnologia, inovação e por transformar dados brutos em insig
 
 <table>
   <tr>
-    <td align="center" width="30%"><strong>Linguagens / Dados</strong></td>
+    <td align="center" width="30%"><strong>Languages ​​/ Data</strong></td>
     <td align="center" width="40%"><strong>Frontend / Web</strong></td>
-    <td align="center" width="30%"><strong>Ferramentas / Outros</strong></td>
+    <td align="center" width="30%"><strong>Tools / Other</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -54,7 +54,7 @@ Sou entusiasta em tecnologia, inovação e por transformar dados brutos em insig
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
 <div align="center">
   <table border="0">
@@ -70,7 +70,7 @@ Sou entusiasta em tecnologia, inovação e por transformar dados brutos em insig
 
 ---
 
-## Contribuições
+## Contributions
 
 <div align="center">
   <picture>
