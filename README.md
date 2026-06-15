@@ -44,7 +44,7 @@ I’m passionate about technology and innovation, and about turning raw data int
       <img src="https://skillicons.dev/icons?i=py,java,js,mysql,cpp" alt="Linguagens" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,vite,ts" alt="Frontend" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,idea,pycharm,vscode,kali" alt="Ferramentas" />
